@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-15T07:30:14.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="HtLkLzttcgneKgXxhriR" version="13.4.2" type="github">
+<mxfile host="www.draw.io" modified="2020-07-15T07:34:28.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="3ksZmIZpaQl1TmTyPD7q" version="13.4.2" type="github">
   <diagram id="VRoh0UXYiEeOkxYNbbDx" name="第 1 页">
     <mxGraphModel dx="1038" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,10 +134,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_Mkl3R4aK3wOXtRPFUWE-55" value="支撑层级" style="swimlane;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="700" y="40" width="60" height="1000" as="geometry" />
+          <mxGeometry x="700" y="10" width="61.5" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="_Mkl3R4aK3wOXtRPFUWE-58" value="面向客户系统" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="_Mkl3R4aK3wOXtRPFUWE-55">
-          <mxGeometry x="1.5" y="20" width="60" height="60" as="geometry" />
+          <mxGeometry x="1.5" y="20" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_Mkl3R4aK3wOXtRPFUWE-61" value="核心业务系统" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="_Mkl3R4aK3wOXtRPFUWE-55">
           <mxGeometry y="220" width="60" height="510" as="geometry" />
